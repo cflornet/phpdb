@@ -1,13 +1,17 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
-	<meta charset="utf-8">"
-	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-		<link rel="manifest" href="manifest.webmanifest">
-		<title>Budget</title>
+	<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <meta name="theme-color" content="#3367D6">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="icon/apple-icon-180x180.png" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="manifest" href="manifest.webmanifest">
+	<title>Budget</title>
 		<?
 			require "connectDB.req.php";
 	
